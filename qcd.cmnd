@@ -1,0 +1,16 @@
+Main:numberOfEvents = 100
+Main:timesAllowErrors = 3          ! how many aborts before run stops
+Init:showProcesses = off
+Init:showMultipartonInteractions = off
+Init:showChangedSettings = off
+Init:showChangedParticleData = off
+Random:setSeed = on
+Random:seed = 123
+Next:numberShowInfo = 0
+Next:numberShowEvent = 0
+Next:numberShowLHA = 0
+Next:numberShowProcess = 0
+Next:numberCount = 0
+HardQCD:all = on
+PhaseSpace:pTHatMin  =100
+PhaseSpace:pTHatMin  =500
